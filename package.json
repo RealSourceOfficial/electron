@@ -9,14 +9,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arlojay-studios/electron.git"
+    "url": "git+https://github.com/RealSourceOfficial/electron.git"
   },
   "author": "Arlojay Studios",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/arlojay-studios/electron/issues"
+    "url": "https://github.com/RealSourceOfficial/electron/issues"
   },
-  "homepage": "https://github.com/arlojay-studios/electron#readme",
+  "homepage": "https://github.com/RealSourceOfficial/electron#readme",
   "dependencies": {
     "express": "^4.18.2"
   },
