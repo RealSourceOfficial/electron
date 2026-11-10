@@ -1,8 +1,5 @@
 {
-  "name": "@arlojay-studios/electron-atomic",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+  "name": "@sourceofficial/electron-atomic",
   "version": "0.0.9",
   "description": "Client Module for Atomic",
   "main": "web.ts",
